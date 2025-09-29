@@ -1,5 +1,5 @@
-# custom_alert
-custom_alert is a reusable Flutter package that provides a clean and customizable alert box.
+# custom_alertbox
+custom_alertbox is a reusable Flutter package that provides a clean and customizable alert box.
 
 ---
 
@@ -22,7 +22,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  custom_alert: ^0.0.1
+  custom_alertbox: ^0.0.1
 
 
 ```
