@@ -14,8 +14,8 @@ custom_alert is a reusable Flutter package that provides a clean and customizabl
 ---
 
 ## Priview
-![Example Image](https://github.com/DKsanjana/progress_step/blob/master/assets/Priview.jpg?raw=true)
-
+![Example Image](https://github.com/DKsanjana/custom_alert/blob/master/assets/success.jpg?raw=true)
+![Example Image](https://github.com/DKsanjana/custom_alert/blob/master/assets/error.jpg?raw=true)
 ## Getting started
 
 Add the dependency to your `pubspec.yaml`:
