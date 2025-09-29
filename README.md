@@ -1,5 +1,5 @@
-# custom_alertbox
-custom_alertbox is a reusable Flutter package that provides a clean and customizable alert box.
+# flutter_custom_alertbox
+flutter_custom_alertbox is a reusable Flutter package that provides a clean and customizable alert box.
 
 ---
 

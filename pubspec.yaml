@@ -1,5 +1,5 @@
-name: custom_alertbox
-description: "custom_alert is a reusable Flutter package that provides a clean and customizable alert box"
+name: flutter_custom_alertbox
+description: "flutter_custom_alertbox is a reusable Flutter package that provides a clean and customizable alert box"
 version: 0.0.1
 homepage: https://github.com/DKsanjana/custom_alert/tree/master
 
