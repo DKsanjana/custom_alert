@@ -22,7 +22,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  custom_alertbox: ^0.0.1
+  flutter_custom_alertbox: ^0.0.1
 
 
 ```
